@@ -1,3 +1,7 @@
 # helloworld
-the start for my github
-hello GitHub.
+```c
+void main()
+{
+  printf("Hello World!\n");
+}
+```
